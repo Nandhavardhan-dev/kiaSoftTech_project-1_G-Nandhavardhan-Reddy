@@ -5,6 +5,7 @@ package kiasoft.pack;
 import java.util.SplittableRandom;
 
 public class OTPGenerator {
+
 	public static void main(String[] args)
 	{
 		int length = 6;
