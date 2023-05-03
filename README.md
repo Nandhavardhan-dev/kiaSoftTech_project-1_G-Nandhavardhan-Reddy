@@ -1,11 +1,8 @@
 # kiaSoftTech_project-1_G-Nandhavardhan-Reddy
 
 package kiasoft.pack;
-
 import java.util.SplittableRandom;
-
 public class OTPGenerator {
-	
 	public static void main(String[] args)
 	{
 		int length = 6;
@@ -23,6 +20,5 @@ public class OTPGenerator {
 		}
 		//printing the sb(otp)
 		System.out.println(sb);
-	}
-	
+	}	
 }
